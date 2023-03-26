@@ -19,15 +19,15 @@ We analysed the provided data and did some exploratory work.
 
 You can follow the analysis and exploration in the following notebooks:
 
-1. Analysis of Ghent region for railways
+#### 1. Analysis of Ghent region for railways
 
 * [exploration.ipynb](https://github.com/sedat01/Agilytic-hackathon/blob/main/exploration.ipynb)
 
-2. Analysis of Flanders region for railways
+####  2. Analysis of Flanders region for railways
 
 * [crossing_points.ipynb](https://github.com/sedat01/Agilytic-hackathon/blob/main/crossing_points.ipynb)
 
-3. Analysis of Benelux region for railways, roads and waterways
+#### 3. Analysis of Benelux region for railways, roads and waterways
 
 Finally we prepared an interactive map of the current existing crossings with color indication of how far is it from the closest neighbour. 
 
@@ -36,12 +36,10 @@ We uploaded this interactive map on a webserver for easy access:
 * [interactive_map.html](https://github.com/sedat01/Agilytic-hackathon/blob/main/interactive_map.html)
 * [interactive_map.ipynb](https://github.com/sedat01/Agilytic-hackathon/blob/main/interactive_map.ipynb)
 * [Cycling crossings - Benelux](https://cycling-crossings-benelux.000webhostapp.com/)
-
-![interactive map](https://github.com/sedat01/Agilytic-hackathon/blob/main/assets/scr.png)
-
+ 
 ### Contributors
 
-Samuel Fooks : [LinkedIn](https://www.linkedin.com/in/samuel-fooks-972800131/)
-Sedat Mehmet : [LinkedIn](https://www.linkedin.com/in/sedat-mehmed-a58851199/)
-Frank Trioen : [LinkedIn](https://www.linkedin.com/in/frank-trioen-21b71135/)
+Samuel Fooks : [LinkedIn](https://www.linkedin.com/in/samuel-fooks-972800131/)<br>
+Sedat Mehmet : [LinkedIn](https://www.linkedin.com/in/sedat-mehmed-a58851199/)<br>
+Frank Trioen : [LinkedIn](https://www.linkedin.com/in/frank-trioen-21b71135/)<br>
 
